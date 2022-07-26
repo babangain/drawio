@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T06:23:42.710Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="PsJZFeoEQk6KA64fTSxY" type="github"><diagram id="0pvtrK4IteRJTREZbj2g">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T06:29:14.078Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="60Uu5ZKtsbAf6DDpbJeB" version="20.0.4" type="github">
+  <diagram id="0pvtrK4IteRJTREZbj2g" name="Page-1">
+    <mxGraphModel dx="984" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ALBERT V2&lt;br&gt;(From Pre-trained)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-2" value="Context" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-3" value="Sentence" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cPYS_WuLDQ-HSQo80urA-2" target="cPYS_WuLDQ-HSQo80urA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="cPYS_WuLDQ-HSQo80urA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-6" value="FFN" style="triangle;whiteSpace=wrap;html=1;fontSize=17;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;entryX=-0.031;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cPYS_WuLDQ-HSQo80urA-1" target="cPYS_WuLDQ-HSQo80urA-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cPYS_WuLDQ-HSQo80urA-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="365" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPYS_WuLDQ-HSQo80urA-12" value="A score indicating How much Sentence fits to be the next utterance of Context" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="20" width="255" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

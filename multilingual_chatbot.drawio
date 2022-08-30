@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T10:33:30.761Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.7" etag="u61j3_aGUPIcTMewc8fM" type="github"><diagram id="TYXv2sDXfkrQcd25oMAb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-30T10:45:04.662Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GpsrdoN8LiegaZTRTUlJ" version="20.2.7" type="github">
+  <diagram id="TYXv2sDXfkrQcd25oMAb" name="Page-1">
+    <mxGraphModel dx="980" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-3" value="&lt;div&gt;हैलो, मैं कैसे आपकी मदद कर सकता हूं?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="167.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698388-icon-11-laughing-face-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="157.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-7" value="&lt;div&gt;hello, how can i help you?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-face-128.png" vertex="1" parent="1">
+          <mxGeometry x="480" y="286" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-12" value="&lt;div&gt;नमस्ते। मैं ह्यूस्टन, टेक्सास में एएमसी ह्यूस्टन 8 में मूवी टिकट खरीदने की कोशिश कर रहा हूं।&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="217.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-13" value="&lt;div&gt;Hi. I&#39;m trying to buy movie tickets at the AMC Houston 8 in Houston, Texas.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="277.5" width="140" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698388-icon-11-laughing-face-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="367.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-15" value="sure, i can help you with that for sure. what did you want to see?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="347.5" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0rEx-x5hWNqNhtb-nHU6-16" value="&lt;div&gt;ज़रूर, मैं निश्चित रूप से इसमें आपकी मदद कर सकता हूँ। आप क्या लेना चाहते थे?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="397.5" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

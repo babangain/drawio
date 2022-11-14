@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T10:21:22.176Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SH3vdW_DjD_IPL8kpVwm" version="20.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T10:22:32.608Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Uks9UYweYKjet5ldkIJV" version="20.3.5" type="github">
   <diagram id="4Yl-0jOA9gWWlVtBT1-1" name="Page-1">
     <mxGraphModel dx="980" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hInCzwFxS4Cqq_BlXvqo-13" value="Loss = 0.85 * (1-BERTScore) +&lt;br&gt;&amp;nbsp;0.15 * (-MLM Score)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="hInCzwFxS4Cqq_BlXvqo-13" value="Loss = 0.85 * (1-BERTScore) +&lt;br&gt;&amp;nbsp;0.15 * (0-MLM Score)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hInCzwFxS4Cqq_BlXvqo-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.273;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hInCzwFxS4Cqq_BlXvqo-8" target="hInCzwFxS4Cqq_BlXvqo-13">

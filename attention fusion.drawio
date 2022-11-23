@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T10:52:14.095Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.2.8" etag="AjCHhun4ouIq5Q1o0TcU" type="github"><diagram id="te1-Zut3J3ryuqxQwIAE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-23T10:55:15.051Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iuEoeM1e1j3AQJNHhSAt" version="20.2.8" type="github">
+  <diagram id="te1-Zut3J3ryuqxQwIAE" name="Page-1">
+    <mxGraphModel dx="986" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nK6S5a3LE8csi1iP-Xx2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK6S5a3LE8csi1iP-Xx2-1" target="nK6S5a3LE8csi1iP-Xx2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="275" />
+              <mxPoint x="420" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nK6S5a3LE8csi1iP-Xx2-1" value="Text-Image Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nK6S5a3LE8csi1iP-Xx2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.659;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nK6S5a3LE8csi1iP-Xx2-2" target="nK6S5a3LE8csi1iP-Xx2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK6S5a3LE8csi1iP-Xx2-2" value="Text Self Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nK6S5a3LE8csi1iP-Xx2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK6S5a3LE8csi1iP-Xx2-3" target="nK6S5a3LE8csi1iP-Xx2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK6S5a3LE8csi1iP-Xx2-3" value="Feed Forward Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nK6S5a3LE8csi1iP-Xx2-6" value="Final Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T12:42:38.530Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="twlPOpKV_QBv50KbJkbU" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:48:02.865Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1BNTakJ01Vz2fGOh_vzs" version="20.8.5" type="github">
   <diagram id="4Yl-0jOA9gWWlVtBT1-1" name="Page-1">
     <mxGraphModel dx="992" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-11" value="BERTScore ( Corrected Source, Candidate in Hindi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;gradientColor=#CC99FF;" parent="1" vertex="1">
           <mxGeometry x="390" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TNRDMdXB5AWBM9xc9xOg-13" value="Loss =&amp;nbsp;α&amp;nbsp;* (1-BERTScore) +&lt;br&gt;β&amp;nbsp; * (MLM Score)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;gradientColor=#FFE599;" parent="1" vertex="1">
+        <mxCell id="TNRDMdXB5AWBM9xc9xOg-13" value="Loss =&amp;nbsp;α&amp;nbsp;* (1-BERTScore) +&lt;br&gt;β&amp;nbsp; * (-MLM Score)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;gradientColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="530" y="320" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-22" value="BERTScore ( Source, Candidate in Hindi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;gradientColor=#CC99FF;" parent="1" vertex="1">

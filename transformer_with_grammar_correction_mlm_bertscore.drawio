@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T07:19:48.377Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XDIF0cQIOHMNE9RXGUmZ" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:27:10.502Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vNYiUYxzcmu6U0EaocAo" version="20.8.5" type="github">
   <diagram id="4Yl-0jOA9gWWlVtBT1-1" name="Page-1">
     <mxGraphModel dx="992" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
             <mxPoint x="640" y="560" as="sourcePoint" />
             <mxPoint x="380" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="750" />
+              <mxPoint x="410" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-9" value="GEC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="260" y="440" width="240" height="40" as="geometry" />
+          <mxGeometry x="365" y="440" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-10" value="MLM Score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="240" height="60" as="geometry" />
@@ -84,14 +84,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-22" value="BERTScore ( Source, Candidate in Hindi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="40" y="320" width="100" height="60" as="geometry" />
+          <mxGeometry x="250" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.428;entryY=1.09;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="TNRDMdXB5AWBM9xc9xOg-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="750" as="sourcePoint" />
+            <mxPoint x="420" y="750" as="sourcePoint" />
             <mxPoint x="450" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="80" y="750" />
+              <mxPoint x="293" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>

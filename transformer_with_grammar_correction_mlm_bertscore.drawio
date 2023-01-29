@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T12:34:43.865Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ozBnWfrw6t2aIlPq0iSa" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:34:57.512Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zjA9nux_LFjg_Kf0p77_" version="20.8.5" type="github">
   <diagram id="4Yl-0jOA9gWWlVtBT1-1" name="Page-1">
     <mxGraphModel dx="992" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="640" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TNRDMdXB5AWBM9xc9xOg-2" value="Pre-trained Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="TNRDMdXB5AWBM9xc9xOg-2" value="Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="520" y="620" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TNRDMdXB5AWBM9xc9xOg-4" target="TNRDMdXB5AWBM9xc9xOg-2" edge="1">

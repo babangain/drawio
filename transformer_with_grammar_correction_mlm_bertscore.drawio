@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T10:15:12.590Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WZiWAVYMXRPlL6WUmZoZ" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T11:50:07.546Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8AM79F10leFCLhlL-4Dr" version="21.0.2" type="github">
   <diagram id="4Yl-0jOA9gWWlVtBT1-1" name="Page-1">
     <mxGraphModel dx="992" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
@@ -39,13 +39,13 @@
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-11" value="BERTScore ( Corrected Source, Candidate in Hindi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;gradientColor=#CC99FF;" parent="1" vertex="1">
           <mxGeometry x="390" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TNRDMdXB5AWBM9xc9xOg-13" value="Loss =&amp;nbsp;α&amp;nbsp;* (1-BERTScore) +&lt;br&gt;β&amp;nbsp; * (-MLM Score)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;gradientColor=#FFE599;" parent="1" vertex="1">
+        <mxCell id="TNRDMdXB5AWBM9xc9xOg-13" value="Loss = β* (1-BERTScore) +&lt;br&gt;&amp;nbsp;α&amp;nbsp;* (-MLM Score)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;gradientColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="530" y="320" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TNRDMdXB5AWBM9xc9xOg-22" value="BERTScore ( Source, Candidate in Hindi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;gradientColor=#CC99FF;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TNRDMdXB5AWBM9xc9xOg-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;" parent="1" target="TNRDMdXB5AWBM9xc9xOg-22" edge="1">
+        <mxCell id="TNRDMdXB5AWBM9xc9xOg-26" value="" style="endArrow=classic;html=1;entryX=0.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;rounded=1;" parent="1" target="TNRDMdXB5AWBM9xc9xOg-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="750" as="sourcePoint" />
             <mxPoint x="450" y="480" as="targetPoint" />
@@ -87,7 +87,7 @@
             <mxPoint x="530" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5wUSxXZpx9yLeGlzAe6v-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="TNRDMdXB5AWBM9xc9xOg-13" target="TNRDMdXB5AWBM9xc9xOg-2" edge="1">
+        <mxCell id="5wUSxXZpx9yLeGlzAe6v-7" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="TNRDMdXB5AWBM9xc9xOg-13" target="TNRDMdXB5AWBM9xc9xOg-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="500" as="sourcePoint" />
             <mxPoint x="560" y="500" as="targetPoint" />
@@ -112,7 +112,7 @@
             <mxPoint x="530" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5wUSxXZpx9yLeGlzAe6v-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="TNRDMdXB5AWBM9xc9xOg-22" edge="1">
+        <mxCell id="5wUSxXZpx9yLeGlzAe6v-15" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="TNRDMdXB5AWBM9xc9xOg-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="520" as="sourcePoint" />
             <mxPoint x="530" y="650" as="targetPoint" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T12:59:16.720Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1xBZtCctzLQ011dA2HcX" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T13:01:16.353Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="E1RdN8L16YsGT7XMqZe4" version="21.2.9" type="github">
   <diagram name="Page-1" id="mLZ4j7zR7Z7BT_BTE5Zz">
     <mxGraphModel dx="992" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,6 +8,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-2" target="Eh6haV8WGGXrohUfaxJO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-2" target="Eh6haV8WGGXrohUfaxJO-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-2" value="General Domain&lt;br&gt;&amp;nbsp;Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -23,6 +26,9 @@
           <mxGeometry x="80" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-5" target="Eh6haV8WGGXrohUfaxJO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-5" target="Eh6haV8WGGXrohUfaxJO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-5" value="Pretrained Gen Domain Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -61,6 +67,19 @@
             <mxPoint x="450" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-25" value="Pre-trained gen domain model (dynamic)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.673;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.951;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="518.4000000000001" y="385.20000000000005" as="sourcePoint" />
+            <mxPoint x="280.76" y="240.41999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="260" />
+              <mxPoint x="281" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>

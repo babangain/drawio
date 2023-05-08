@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T13:08:37.217Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="S_0weXA3xn4b92GyeVLc" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T13:09:18.669Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5SV-TAd12sNtrkbdCXUp" version="21.2.9" type="github">
   <diagram name="Page-1" id="mLZ4j7zR7Z7BT_BTE5Zz">
     <mxGraphModel dx="992" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="Eh6haV8WGGXrohUfaxJO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-2" target="Eh6haV8WGGXrohUfaxJO-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-2" value="General Domain&lt;br&gt;&amp;nbsp;Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-2" value="General Domain&lt;br&gt;&amp;nbsp;Data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-3" value="Similar Domain &lt;br&gt;Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-3" value="Similar Domain &lt;br&gt;Data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-4" target="Eh6haV8WGGXrohUfaxJO-8">
@@ -31,7 +31,7 @@
         <mxCell id="Eh6haV8WGGXrohUfaxJO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-5" target="Eh6haV8WGGXrohUfaxJO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-5" value="Pretrained Gen Domain Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-5" value="Pretrained Gen Domain Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-8" target="Eh6haV8WGGXrohUfaxJO-12">
@@ -76,16 +76,16 @@
             <mxPoint x="520" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-25" value="Pre-trained gen domain model (dynamic)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-25" value="Pre-trained gen domain model (dynamic)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-28" value="Pre-trained Similar Domain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-28" value="Pre-trained Similar Domain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-29" value="Pre-trained similar from dynamic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-29" value="Pre-trained similar from dynamic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="350" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-30" value="Pre-trained similar from dynamic with dynamic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-30" value="Pre-trained similar from dynamic with dynamic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.623;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.123;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T13:01:16.353Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="E1RdN8L16YsGT7XMqZe4" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T13:04:18.421Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kEg4TR0mzKBwte1UDh56" version="21.2.9" type="github">
   <diagram name="Page-1" id="mLZ4j7zR7Z7BT_BTE5Zz">
     <mxGraphModel dx="992" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,16 +70,45 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-25" value="Pre-trained gen domain model (dynamic)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-25" target="Eh6haV8WGGXrohUfaxJO-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eh6haV8WGGXrohUfaxJO-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.673;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.951;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-16">
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-25" value="Pre-trained gen domain model (dynamic)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-29" value="Pre-trained similar from dynamic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-25" target="Eh6haV8WGGXrohUfaxJO-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="518.4000000000001" y="385.20000000000005" as="sourcePoint" />
-            <mxPoint x="280.76" y="240.41999999999996" as="targetPoint" />
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="260" />
-              <mxPoint x="281" y="260" />
+              <mxPoint x="280" y="180" />
+              <mxPoint x="450" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.623;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.123;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.76" y="138.79999999999995" as="sourcePoint" />
+            <mxPoint x="264.76" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-3" target="Eh6haV8WGGXrohUfaxJO-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="420" />
+              <mxPoint x="40" y="40" />
+              <mxPoint x="380" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>

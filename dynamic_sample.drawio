@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T12:57:31.238Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3YuGMzFeRmCcbboGJ-RD" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T12:58:24.247Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cvvUPqF2zoCInjt6pY0s" version="21.2.9" type="github">
   <diagram name="Page-1" id="mLZ4j7zR7Z7BT_BTE5Zz">
     <mxGraphModel dx="992" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="Eh6haV8WGGXrohUfaxJO-12" value="Prob (In)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-16" value="Calculate Prob difference from both models on similar domain data and general domain data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh6haV8WGGXrohUfaxJO-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Eh6haV8WGGXrohUfaxJO-3" target="Eh6haV8WGGXrohUfaxJO-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

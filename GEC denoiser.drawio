@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T12:52:50.163Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="itDxo_xPDALOoUMDFjXH" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T12:54:00.866Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QZkhIeY7nRQF2TFLvZSw" version="21.5.0" type="github">
   <diagram name="Page-1" id="DMfqj76WYdlzirbmYl45">
     <mxGraphModel dx="1364" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,13 @@
           <mxGeometry x="280" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RGavhd9j_akwTErmuiZn-2" value="NMT model (En-Hi)&lt;br&gt;Pre-trained on General -&amp;gt; Domain data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="160" height="80" as="geometry" />
+          <mxGeometry x="480" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RGavhd9j_akwTErmuiZn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGavhd9j_akwTErmuiZn-4" target="RGavhd9j_akwTErmuiZn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RGavhd9j_akwTErmuiZn-4" value="Noised in-domain data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

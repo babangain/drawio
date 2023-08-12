@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T08:59:11.319Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xgUXLlLDh_nr_Re6zqN4" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T09:04:26.885Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CK7qrqNSWqYAdahfPaME" version="21.6.8" type="github">
   <diagram name="Page-1" id="SjNUqgIngpu39d5az77C">
     <mxGraphModel dx="1364" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,6 +50,29 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="440" as="sourcePoint" />
             <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BoZ83V1UFSGhs1CFrVE-15" value="Calculate P-CXMI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5BoZ83V1UFSGhs1CFrVE-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BoZ83V1UFSGhs1CFrVE-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="302" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="320" />
+              <mxPoint x="300" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BoZ83V1UFSGhs1CFrVE-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5BoZ83V1UFSGhs1CFrVE-6" target="5BoZ83V1UFSGhs1CFrVE-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="320" />
+              <mxPoint x="340" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

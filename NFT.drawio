@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T13:02:48.068Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3bmy8T9uUtF3VObFxn5o" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T13:04:16.573Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="X_oHfJZwV4OuMS9daffN" version="22.1.3" type="github">
   <diagram name="Page-1" id="uvDzyVtkvnyqVdNpsSEz">
     <mxGraphModel dx="994" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,6 +53,30 @@
         </mxCell>
         <mxCell id="ZMCGh3uslOaLDGoOaYo7-14" value="Blockchain" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="375" y="400" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EkopuV4-x3dMB_6pd0mx-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EkopuV4-x3dMB_6pd0mx-2" target="EkopuV4-x3dMB_6pd0mx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EkopuV4-x3dMB_6pd0mx-2" value="Users" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="95" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EkopuV4-x3dMB_6pd0mx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EkopuV4-x3dMB_6pd0mx-4" target="EkopuV4-x3dMB_6pd0mx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EkopuV4-x3dMB_6pd0mx-4" value="Browser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="255" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EkopuV4-x3dMB_6pd0mx-5" value="Wallet" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EkopuV4-x3dMB_6pd0mx-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EkopuV4-x3dMB_6pd0mx-4" target="ZMCGh3uslOaLDGoOaYo7-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

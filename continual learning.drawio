@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T07:48:43.297Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ILAXSS1w9nfztD-rJdt3" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T07:51:12.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wxr32myedCkjGVyI75aS" version="24.5.4" type="github">
   <diagram name="Page-1" id="Sgc5ljIgetAQjRdi-y6E">
     <mxGraphModel dx="1242" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eU74bSJVZi2-KE8Z9VMp-1" value="Data Availability" style="shape=table;childLayout=tableLayout;startSize=20;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="400" height="400" as="geometry" />
+          <mxGeometry x="7" y="80" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="eU74bSJVZi2-KE8Z9VMp-2" value="Task 1" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="eU74bSJVZi2-KE8Z9VMp-1">
           <mxGeometry y="20" width="400" height="127" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="39" y="38.5" width="42" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eU74bSJVZi2-KE8Z9VMp-22" value="Data Availability" style="shape=table;childLayout=tableLayout;startSize=20;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="400" height="400" as="geometry" />
+          <mxGeometry x="437" y="80" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="eU74bSJVZi2-KE8Z9VMp-23" value="Task 1" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="eU74bSJVZi2-KE8Z9VMp-22">
           <mxGeometry y="20" width="400" height="127" as="geometry" />
@@ -165,6 +165,12 @@
         </mxCell>
         <mxCell id="eU74bSJVZi2-KE8Z9VMp-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eU74bSJVZi2-KE8Z9VMp-39">
           <mxGeometry x="30" y="41" width="42" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="eU74bSJVZi2-KE8Z9VMp-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Task Incremental Continual Learning setup&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="33" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eU74bSJVZi2-KE8Z9VMp-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Our Setup&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="33" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

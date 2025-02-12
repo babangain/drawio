@@ -92,7 +92,7 @@
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-38" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;" parent="1" vertex="1">
           <mxGeometry x="70" y="340" width="20" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-39" value="4x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-39" value="6x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="36" y="414" width="40" height="30" as="geometry" />
         </mxCell>
       </root>

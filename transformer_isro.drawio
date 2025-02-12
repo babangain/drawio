@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="280" height="250" as="geometry" />
+          <mxGeometry x="120" y="320" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-_FQZT7pGOxMyaGMhQ0-2" target="Z-_FQZT7pGOxMyaGMhQ0-21">
           <mxGeometry relative="1" as="geometry" />
@@ -57,12 +57,12 @@
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-_FQZT7pGOxMyaGMhQ0-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="605" as="sourcePoint" />
-            <mxPoint x="250" y="570" as="targetPoint" />
+            <mxPoint x="190" y="557" as="sourcePoint" />
+            <mxPoint x="250" y="522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-23" value="&lt;div&gt;&lt;b&gt;Task&lt;/b&gt;: Summarization&lt;/div&gt;&lt;div&gt;&lt;b&gt;Text&lt;/b&gt;: The primary objective of Apollo 11....&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="613" width="160" height="60" as="geometry" />
+          <mxGeometry x="170" y="565" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-_FQZT7pGOxMyaGMhQ0-25" target="Z-_FQZT7pGOxMyaGMhQ0-26">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-25" value="&lt;div&gt;Shared Parameter for&amp;nbsp;&lt;/div&gt;&lt;div&gt;Multi-head Attention layer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="154" y="520" width="200" height="42" as="geometry" />
+          <mxGeometry x="151" y="468" width="200" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-26" value="Gate" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="397" width="60" height="50" as="geometry" />

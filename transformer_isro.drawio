@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-25" value="&lt;div&gt;Shared Parameter for&amp;nbsp;&lt;/div&gt;&lt;div&gt;Multi-head Attention layer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="478" width="270" height="42" as="geometry" />
+          <mxGeometry x="160" y="478" width="200" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Z-_FQZT7pGOxMyaGMhQ0-26" value="Gate" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="397" width="60" height="50" as="geometry" />

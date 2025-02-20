@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k0pq9hK3MQsBATiUF3Hv-2" value="Hindi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-2" value="Hindi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="167" y="819" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0pq9hK3MQsBATiUF3Hv-3" value="Bengali" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-3" value="Bengali" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="345" y="819" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0pq9hK3MQsBATiUF3Hv-4" value="Santhali" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-4" value="Santhali" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="628" y="819" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
@@ -224,13 +224,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fillStyle=zigzag-line;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="740" width="178" height="150" as="geometry" />
+          <mxGeometry x="138" y="740" width="178" height="150" as="geometry" />
         </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fillStyle=zigzag-line;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="740" width="178" height="150" as="geometry" />
         </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fillStyle=zigzag-line;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="740" width="178" height="150" as="geometry" />
+          <mxGeometry x="599" y="740" width="178" height="150" as="geometry" />
         </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-78" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="172" y="680" width="30" height="30" as="geometry" />

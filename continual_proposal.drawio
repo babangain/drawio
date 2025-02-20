@@ -205,7 +205,7 @@
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-69" value="&lt;div&gt;Train with Loss and Gradients;&lt;br&gt;Sample a subset of data for replay in future&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="265" y="110" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k0pq9hK3MQsBATiUF3Hv-71" value="Replay Buffer" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-71" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="40.2" y="180" width="114.8" height="140" as="geometry" />
         </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="k0pq9hK3MQsBATiUF3Hv-69" target="k0pq9hK3MQsBATiUF3Hv-71">
@@ -261,6 +261,9 @@
         </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-89" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="155" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-96" value="&lt;b&gt;Replay Buffer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40.00000000000002" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

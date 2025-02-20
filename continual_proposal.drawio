@@ -184,6 +184,9 @@
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-62" value="Prob (History,Hindi) = 0.09" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=1;strokeColor=#10739e;shadow=1;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="350" y="480" width="151" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k0pq9hK3MQsBATiUF3Hv-64" target="k0pq9hK3MQsBATiUF3Hv-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-64" value="Sample Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="345" y="440" width="160" height="20" as="geometry" />
         </mxCell>
@@ -192,6 +195,9 @@
             <mxPoint x="450" y="590" as="sourcePoint" />
             <mxPoint x="500" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-66" value="MoE based Large Language Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="230" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

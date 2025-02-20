@@ -199,6 +199,9 @@
         <mxCell id="k0pq9hK3MQsBATiUF3Hv-66" value="MoE based Large Language Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="285" y="240" width="280" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="k0pq9hK3MQsBATiUF3Hv-69" value="&lt;div&gt;Train with Loss and Gradients&lt;br&gt;Sample a subset of data&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="320" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

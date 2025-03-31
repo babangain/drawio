@@ -7,13 +7,13 @@
         <mxCell id="rVGYfOko8amNhe19nSk2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="rVGYfOko8amNhe19nSk2-1" target="rVGYfOko8amNhe19nSk2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rVGYfOko8amNhe19nSk2-1" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;Translate the following sentence from English to French:&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="rVGYfOko8amNhe19nSk2-1" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;Translate the following sentence from English to French:&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="170" y="470" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="rVGYfOko8amNhe19nSk2-2" target="rVGYfOko8amNhe19nSk2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rVGYfOko8amNhe19nSk2-2" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;They are listed on the UNESCO World Heritage List.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="rVGYfOko8amNhe19nSk2-2" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;They are listed on the UNESCO World Heritage List.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="425" y="470" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="rVGYfOko8amNhe19nSk2-3" target="rVGYfOko8amNhe19nSk2-9">
@@ -37,7 +37,7 @@
         <mxCell id="rVGYfOko8amNhe19nSk2-9" value="Large Language Model" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=light-dark(#e2d6f3, #ededed);strokeColor=#666666;gradientColor=light-dark(#c6b2e3, #535353);" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVGYfOko8amNhe19nSk2-11" value="&lt;div class=&quot;line-clamp-2&quot;&gt;&lt;div class=&quot;&quot; dir=&quot;auto&quot;&gt;&lt;span class=&quot;&quot;&gt;Ils sont inscrits sur la liste du patrimoine mondial de l’UNESCO.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="rVGYfOko8amNhe19nSk2-11" value="&lt;div class=&quot;line-clamp-2&quot;&gt;&lt;div class=&quot;&quot; dir=&quot;auto&quot;&gt;&lt;span class=&quot;&quot;&gt;Ils sont inscrits sur la liste du patrimoine mondial de l’UNESCO.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fontStyle=1;fillColor=#D4FFD4;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="325" y="100" width="150" height="60" as="geometry" />
         </mxCell>
       </root>

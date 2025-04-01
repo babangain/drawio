@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rVGYfOko8amNhe19nSk2-1" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;Translate the sentence based on the following examples.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="180" y="468" width="200" height="50" as="geometry" />
+          <mxGeometry x="110" y="468" width="220" height="82" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="rVGYfOko8amNhe19nSk2-2" target="rVGYfOko8amNhe19nSk2-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-2" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;They are listed on the UNESCO World Heritage List.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="646" y="468" width="190" height="50" as="geometry" />
+          <mxGeometry x="646" y="468" width="190" height="82" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="rVGYfOko8amNhe19nSk2-3" target="rVGYfOko8amNhe19nSk2-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="470" y="290" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-6" value="Prompt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="179" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-7" value="&lt;div&gt;Source Text&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="694" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="694" y="560" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-8" value="Concatenate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="556" y="438" width="90" height="30" as="geometry" />
@@ -41,20 +41,20 @@
           <mxGeometry x="140" y="680" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00uqzowmlft3CjKkbiBN-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="70" y="130" width="123" height="150" as="geometry" />
+          <mxGeometry x="21" y="130" width="123" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="00uqzowmlft3CjKkbiBN-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.522;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.179;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rVGYfOko8amNhe19nSk2-7" target="00uqzowmlft3CjKkbiBN-2">
+        <mxCell id="00uqzowmlft3CjKkbiBN-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.522;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.179;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="440" as="sourcePoint" />
-            <mxPoint x="450" y="390" as="targetPoint" />
+            <mxPoint x="737.96" y="587.96" as="sourcePoint" />
+            <mxPoint x="39.99700000000005" y="279.99999999999994" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="741" y="630" />
-              <mxPoint x="90" y="630" />
+              <mxPoint x="737.98" y="628.95" />
+              <mxPoint x="40" y="629" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="00uqzowmlft3CjKkbiBN-4" value="English: The whole district is designated as a UNESCO World Heritage Site." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="410" y="468" width="200" height="50" as="geometry" />
+        <mxCell id="00uqzowmlft3CjKkbiBN-4" value="&lt;div&gt;English: The whole district is designated as a UNESCO World Heritage Site.&lt;/div&gt;&lt;div&gt;French: Tout le quartier est inscrit au patrimoine mondial de l&#39;UNESCO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="468" width="290" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -13,11 +13,11 @@
         <mxCell id="rVGYfOko8amNhe19nSk2-2" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;They are listed on the UNESCO World Heritage List.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="646" y="468" width="190" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="rVGYfOko8amNhe19nSk2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="rVGYfOko8amNhe19nSk2-3" target="rVGYfOko8amNhe19nSk2-9" edge="1">
+        <mxCell id="00uqzowmlft3CjKkbiBN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rVGYfOko8amNhe19nSk2-3" target="rVGYfOko8amNhe19nSk2-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rVGYfOko8amNhe19nSk2-3" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;Translate the sentence based on the following examples.&lt;/span&gt;&lt;br&gt;They are listed on the UNESCO World Heritage List." style="ellipse;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;gradientColor=none;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="470" y="290" width="260" height="110" as="geometry" />
+        <mxCell id="rVGYfOko8amNhe19nSk2-3" value="&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;Translate the sentence based on the following examples.&lt;/span&gt;&lt;br&gt;&lt;div&gt;English: The whole district is ...&lt;/div&gt;&lt;div&gt;French: Tout le quartier est ...&lt;/div&gt;&lt;div&gt;English: &lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; font-kerning: normal;&quot;&gt;They are listed on the UNESCO World Heritage List.&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;gradientColor=none;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="248" y="210" width="430" height="200" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-6" value="Prompt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="179" y="560" width="60" height="30" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Large Language Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=light-dark(#e2d6f3, #ededed);strokeColor=#666666;gradientColor=light-dark(#c6b2e3, #535353);" parent="1" vertex="1">
-          <mxGeometry x="400" y="200" width="400" height="60" as="geometry" />
+          <mxGeometry x="263" y="110" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVGYfOko8amNhe19nSk2-11" value="&lt;div class=&quot;line-clamp-2&quot;&gt;&lt;div class=&quot;&quot; dir=&quot;auto&quot;&gt;&lt;span class=&quot;&quot;&gt;Ils sont inscrits sur la liste du patrimoine mondial de l’UNESCO.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fontStyle=1;fillColor=#D4FFD4;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="525" y="100" width="150" height="60" as="geometry" />
+          <mxGeometry x="388" y="10" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00uqzowmlft3CjKkbiBN-1" value="The whole district is designated as a UNESCO World Heritage Site for its unique cultural and historical value" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="680" width="350" height="60" as="geometry" />

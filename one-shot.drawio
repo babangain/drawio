@@ -56,6 +56,16 @@
         <mxCell id="00uqzowmlft3CjKkbiBN-4" value="&lt;div&gt;English: The whole district is designated as a UNESCO World Heritage Site.&lt;/div&gt;&lt;div&gt;French: Tout le quartier est inscrit au patrimoine mondial de l&#39;UNESCO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fillColor=#D6EBFF;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="468" width="290" height="82" as="geometry" />
         </mxCell>
+        <mxCell id="00uqzowmlft3CjKkbiBN-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="00uqzowmlft3CjKkbiBN-2" target="00uqzowmlft3CjKkbiBN-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="600" />
+              <mxPoint x="485" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

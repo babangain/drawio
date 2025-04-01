@@ -37,9 +37,6 @@
         <mxCell id="rVGYfOko8amNhe19nSk2-11" value="&lt;div class=&quot;line-clamp-2&quot;&gt;&lt;div class=&quot;&quot; dir=&quot;auto&quot;&gt;&lt;span class=&quot;&quot;&gt;Ils sont inscrits sur la liste du patrimoine mondial de l’UNESCO.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fontStyle=1;fillColor=#D4FFD4;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="388" y="10" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="00uqzowmlft3CjKkbiBN-1" value="The whole district is designated as a UNESCO World Heritage Site for its unique cultural and historical value" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="680" width="350" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="00uqzowmlft3CjKkbiBN-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="21" y="130" width="123" height="150" as="geometry" />
         </mxCell>

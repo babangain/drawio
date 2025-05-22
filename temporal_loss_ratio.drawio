@@ -48,7 +48,7 @@
             <mxPoint x="440.05999999999995" y="317.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uCXsHbnGowkIL0V6E-4-13" value="Loss History (Last K steps) " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-13" value="&lt;b&gt;Loss History (Last K steps) &lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="545" width="210" height="120" as="geometry">
             <mxRectangle x="128" y="710" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -95,7 +95,7 @@
         <mxCell id="7uCXsHbnGowkIL0V6E-4-25" value="Loss (T_N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745" y="364" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7uCXsHbnGowkIL0V6E-4-27" value="&lt;div&gt;Calculate TLR of Loss(T_i) w.r.t Loss history (T_i), Normalize;&lt;/div&gt;&lt;div&gt;Calculate Updated Probability&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=light-dark(#CCCCFF,#436697);strokeColor=default;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-27" value="&lt;div&gt;&lt;b&gt;Calculate TLR of Loss(T_i) w.r.t Loss history (T_i), Normalize;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Calculate Updated Probability&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=light-dark(#CCCCFF,#436697);strokeColor=default;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="119.08000000000001" y="540" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7uCXsHbnGowkIL0V6E-4-29" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1;" vertex="1" parent="1">

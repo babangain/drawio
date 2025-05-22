@@ -18,7 +18,7 @@
         <mxCell id="M68SwSU_0JWO5BfImC58-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="38" y="400" width="81.08" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7uCXsHbnGowkIL0V6E-4-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="79" y="390" as="sourcePoint" />
             <mxPoint x="79" y="350" as="targetPoint" />
@@ -66,7 +66,7 @@
             <mxPoint x="738" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uCXsHbnGowkIL0V6E-4-18" value="Loss (T1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-18" value="Loss (T_1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="737" y="236" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7uCXsHbnGowkIL0V6E-4-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -75,8 +75,23 @@
             <mxPoint x="741" y="304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uCXsHbnGowkIL0V6E-4-21" value="Loss (T2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-21" value="Loss (T_2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="741" y="289" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="363" as="sourcePoint" />
+            <mxPoint x="720" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691" y="380" as="sourcePoint" />
+            <mxPoint x="741" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uCXsHbnGowkIL0V6E-4-25" value="Loss (T_N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="364" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

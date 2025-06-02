@@ -122,7 +122,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1VFmmPi6dXNytY9Z7WYT-35" value="&lt;div&gt;Repeat&lt;/div&gt;&lt;div&gt;for&lt;/div&gt;&lt;div&gt;FFN down proj, gate proj&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="595" y="540" width="200" height="90" as="geometry" />
+          <mxGeometry x="595" y="554" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1VFmmPi6dXNytY9Z7WYT-36" value="[8192,2048]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="289" y="551" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VFmmPi6dXNytY9Z7WYT-37" value="[8192,2048]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

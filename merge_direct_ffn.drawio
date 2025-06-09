@@ -85,8 +85,10 @@
         <mxCell id="THvKB_XOmp7VkbLJ9JOk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="540" y="510" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="THvKB_XOmp7VkbLJ9JOk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="THvKB_XOmp7VkbLJ9JOk-3" target="THvKB_XOmp7VkbLJ9JOk-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="THvKB_XOmp7VkbLJ9JOk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="THvKB_XOmp7VkbLJ9JOk-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490.0999999999999" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="THvKB_XOmp7VkbLJ9JOk-3" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="430" y="430" width="120" height="40" as="geometry" />
@@ -122,18 +124,6 @@
         <mxCell id="THvKB_XOmp7VkbLJ9JOk-19" value="[16384,2048]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="400" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="THvKB_XOmp7VkbLJ9JOk-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="THvKB_XOmp7VkbLJ9JOk-21" target="THvKB_XOmp7VkbLJ9JOk-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="THvKB_XOmp7VkbLJ9JOk-21" value="Hypernetwork (FFN - Down proj)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="436.88" y="350" width="106.25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="THvKB_XOmp7VkbLJ9JOk-23" value="Hypernetwork (FFN - Up proj)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="436.88" y="280" width="106.25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="THvKB_XOmp7VkbLJ9JOk-25" value="[512,2048]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="535" y="330" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="THvKB_XOmp7VkbLJ9JOk-26" value="[8192,2048]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="238" width="90" height="30" as="geometry" />
         </mxCell>
@@ -145,6 +135,9 @@
               <mxPoint x="590" y="210" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E6MSVosfCu6pBdhGJXXE-1" value="Hypernetwork (FFN)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="425" y="280" width="135" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

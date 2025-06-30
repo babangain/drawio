@@ -16,7 +16,7 @@
             <mxPoint x="450" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpErMOOokMr1HH3b0IK4-4" value="Model 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="qpErMOOokMr1HH3b0IK4-4" value="Model A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="155" y="298" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qpErMOOokMr1HH3b0IK4-5" value="Layer 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
             <mxPoint x="450" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpErMOOokMr1HH3b0IK4-8" value="Model 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="qpErMOOokMr1HH3b0IK4-8" value="Model B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="155" y="618" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qpErMOOokMr1HH3b0IK4-9" value="Layer 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">

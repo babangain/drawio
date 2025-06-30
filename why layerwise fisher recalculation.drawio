@@ -76,8 +76,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h96sEGYosIKRSkyl6Qhy-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Fisher of layer 2 (for both the models), depends upon the outputs they&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;have received from layer 1 (as well as subsequent layers)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;If we do not recalculate fisher, the merged model of the layer 2 will be&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;based on the assumption that we are receiving the inputs from the original models&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;and not on the updated models&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="210" y="600" width="640" height="120" as="geometry" />
+        <mxCell id="h96sEGYosIKRSkyl6Qhy-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Fisher of layer 2 (for both the models), depends upon the outputs they&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;have received from layer 1 (as well as subsequent layers)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="155" y="635" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EuVStnvovB5LW7pUS2SD-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.04;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

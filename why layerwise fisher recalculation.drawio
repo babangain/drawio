@@ -92,7 +92,7 @@
           <mxGeometry x="75" y="288" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EuVStnvovB5LW7pUS2SD-8" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;For layer 2, in model A and model B, the fisher was calculated&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;using hidden outputs of layer 1 from model A and B,&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;but in the merged model,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;we are are using neither of those but&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;hidden output of layer 1 of merged model.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;To avoid the discrepancy in input distribution of a layer,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;we propagate the merged layer back to the models&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="410" width="470" height="140" as="geometry" />
+          <mxGeometry x="590" y="10" width="470" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EuVStnvovB5LW7pUS2SD-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=1;" edge="1" parent="1" target="qpErMOOokMr1HH3b0IK4-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,6 +111,9 @@
               <mxPoint x="520" y="530" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EuVStnvovB5LW7pUS2SD-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;* This is applicable for any sensitivity method that do not address parameter dependency&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

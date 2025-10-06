@@ -172,6 +172,18 @@
             <mxPoint x="450" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xYQvsgzNibUxbOxd7htH-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tamil to English&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="276" y="428" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xYQvsgzNibUxbOxd7htH-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Telugu to English&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="271" y="538.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xYQvsgzNibUxbOxd7htH-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;4 GPUs&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="568.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xYQvsgzNibUxbOxd7htH-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;1 GPU&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

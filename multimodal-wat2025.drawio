@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.7">
   <diagram name="Page-1" id="c-K_yyGzeFS-V3iPT_Ed">
-    <mxGraphModel>
+    <mxGraphModel dx="1305" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gxsuBi-Rk62dbQLikBMF-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;CLIP ViT-B/16&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gxsuBi-Rk62dbQLikBMF-2" value="&lt;div&gt;Caption&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gxsuBi-Rk62dbQLikBMF-3" value="Full image" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gxsuBi-Rk62dbQLikBMF-4" value="Cropped image" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
